@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+
+}
+
+.navigation nav a {
+    display: inline-block;
+    align-items: right;
+
+}
+
+.logo {
+    display: flex;
+    align-items: left;
+
+}
